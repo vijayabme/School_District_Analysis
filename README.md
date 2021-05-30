@@ -9,6 +9,24 @@ Python 3.7
 
 ## Results:
 
+### District Summary:
+
+
+### School Summary:
+
+
+### Top 5 and bottom 5 performing schools
+
+### Math and Reading scores in each grade level
+
+
+### School performance based on the budget
+
+### School performance based on the school size
+
+### School performance based on the school type
+
+
 - How is the district summary affected?
 - How is the school summary affected?
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
