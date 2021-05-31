@@ -51,10 +51,12 @@ After removing the 9th grade scores the math, reading and overall pass percentag
 ![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/top5_bottom5_schools.jpg)
 ### Math and Reading scores in each grade level
 Math scores are similar across the grades for each of the schools. But for some schools its in the 70% and for some schools its in the 80% range.
+
 ![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/MathScores_by_grade.jpg)
 
 Reading scores are similar across grades and they are all in the 80% range for all the schools.
 Thomas High school 9th grade is not taken into account so its an nan for both math and reading scores
+
 ![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/Reading_scores_bygrade.jpg)
 ### School performance based on the budget
 The school performance and the spending ranges(Per Student) are inversely proportional.
