@@ -52,20 +52,16 @@ Thomas High school 9th grade is not taken into account so its an nan for both ma
 
 # image
 ### School performance based on the budget
+The school performance and the spending ranges(Per Student) are inversely proportional.
+The schools with less budget per student are showing higher performance in math and reading compared to the once with higher budget.
 
-
+# image
 ### School performance based on the school size
+Schools with small (<1000) and medium (1000-2000) size populations are doing better compared to schools with a large (2000-5000) population
 
+# image
 ### School performance based on the school type
+Charter Schools are performing better than district schools.
 
-
-- How is the district summary affected?
-- How is the school summary affected?
-- How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
-- How does replacing the ninth-grade scores affect the following:
-   Math and reading scores by grade
-   Scores by school spending
-   Scores by school size
-   Scores by school type
-
+# image
 ## Summary:
