@@ -64,10 +64,10 @@ Charter Schools are performing better than district schools.
 ![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/Performance_SchoolType.jpg)
 
 ## Summary:
-For Thomas High School Removing the 9th grade reading and math scores changed the % passing reading, % passing math or overall pass percentage 
+For Thomas High School replacing the 9th grade reading and math scores to nan, reduced the percentage of students that passed reading, math and both reading and math 
 - % passing reading became 67%
 - % passing math became 70%
-- % overall passing bcame 65%
+- % overall passing became 65%
 ![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/ThomasHighSchool_summary_beforeremoving_nancount.jpg)
 Once the subjects with Nans were removed from the subject count and the percentage was calculated, the percentages are similat to what we had before adding the NaNs.
 ![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/ThomasHighSchool_summary_after_removingnancount.jpg)
