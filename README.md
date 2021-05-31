@@ -30,15 +30,6 @@ The summary for each school indicates
 
 ![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/per_school_summary_df_before.jpg)
 
-#### Change in Thomas High School Summary
-After removing the 9th grade math and reading scores, the math and reading and overall pass percentages improved.
-Before removing the 9th grade scores the math, reading and overall pass percentages were 67%, 70% and 65% respectively 
-After removing the 9th grade scores the math, reading and overall pass percentage were  93%, 97% and 91% respectively
-
-![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/ThomasHighSchool_summary_before.jpg)
-
-![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/ThomasHighSchool_summary_after.jpg)
-
 ### Top 5 and bottom 5 performing schools
 - The top 5 schools are all charter schools with less number of students.
 - The bottom 5 schools are all district schools with more students.
@@ -73,5 +64,9 @@ Charter Schools are performing better than district schools.
 ![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/Performance_SchoolType.jpg)
 
 ## Summary:
+For Thomas High School Removing the 9th grade reading and math scores changed the % passing reading, % passing math or overall pass percentage 
+- % passing reading became 67%
+- % passing math became 70%
+- % overall passing bcame 65%
 
-
+Once the subjects with Nans were removed from the subject count and the percentage was calculated, the percentages are similat to what we had before adding the NaNs.
