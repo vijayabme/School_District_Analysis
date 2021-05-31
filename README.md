@@ -71,4 +71,7 @@ Schools with small (<1000) and medium (1000-2000) size populations are doing bet
 Charter Schools are performing better than district schools.
 
 ![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/Performance_SchoolType.jpg)
+
 ## Summary:
+
+
