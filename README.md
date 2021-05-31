@@ -26,7 +26,7 @@ The summary for each school indicates
 - The pass percent is higher for charter schools compared to district schools.
 - The district schools have a higher population than the charter schools
 
-![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/per_school_summary_df_before.jpg)
+![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/per_school_summary_df_after.jpg)
 
 ### Top 5 and bottom 5 performing schools
 - The top 5 schools are all charter schools with less number of students.
