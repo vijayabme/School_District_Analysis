@@ -68,5 +68,6 @@ For Thomas High School Removing the 9th grade reading and math scores changed th
 - % passing reading became 67%
 - % passing math became 70%
 - % overall passing bcame 65%
-
+![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/ThomasHighSchool_summary_after_removingnancount.jpg)
 Once the subjects with Nans were removed from the subject count and the percentage was calculated, the percentages are similat to what we had before adding the NaNs.
+![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/ThomasHighSchool_summary_after_removingnancount.jpg)
