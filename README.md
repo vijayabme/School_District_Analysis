@@ -71,3 +71,5 @@ For Thomas High School Removing the 9th grade reading and math scores changed th
 ![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/ThomasHighSchool_summary_beforeremoving_nancount.jpg)
 Once the subjects with Nans were removed from the subject count and the percentage was calculated, the percentages are similat to what we had before adding the NaNs.
 ![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/ThomasHighSchool_summary_after_removingnancount.jpg)
+
+
