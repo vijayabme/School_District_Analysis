@@ -19,8 +19,6 @@ The district summary indicates
 - Percentage of students passing reading is 86%
 - Overall passing percentage is 65%
 
-After removing the 9th grade reading and math scores for Thomas High School the overall distric summary didnt change much.
-
 ![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/district_summary_df.jpg)
 
 ### School Summary:
