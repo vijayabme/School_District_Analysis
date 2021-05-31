@@ -69,7 +69,14 @@ For Thomas High School replacing the 9th grade reading and math scores to nan, r
 - % passing math became 70%
 - % overall passing became 65%
 ![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/ThomasHighSchool_summary_beforeremoving_nancount.jpg)
-Once the subjects with Nans were removed from the subject count and the percentage was calculated, the percentages are similat to what we had before adding the NaNs.
+Once the subjects with Nans were removed from the subject count and the percentage was calculated, the percentages are similar to what we had before adding the NaNs. 
+There are only 461 students in 9th grade which is a small number compared to the 10th, 11th and 12th combined. So removing them didn't affect the overall percentage by much
 ![image](https://github.com/vijayabme/School_District_Analysis/blob/main/Resources/ThomasHighSchool_summary_after_removingnancount.jpg)
+
+- School performance didnt get better with school spending budget for each student. The charter schools that had a lower budget for each student had higher performance
+- School size matters a lot when it comes to student performance. The district schools with higher populations had lower performance compared to charter schools with lower population.
+- Overall charter schools had better performance than district schools.
+- The math scores are the ones that are dropping more in district schools compared to charter schools. The reading scores are similar across both kind of schools.  The charter schools with less kids might be giving a better one on one attention to students which might be contributing towards the students success.
+
 
 
